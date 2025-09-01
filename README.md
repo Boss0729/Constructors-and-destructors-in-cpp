@@ -1,7 +1,6 @@
 # Constructors-and-destructors-in-cpp
 
-**Aim:**  
-To study constructors (default, parameterized, copy) and destructors in C++.
+**Aim:** To study constructors (default, parameterized, copy) and destructors in C++.
 
 **Tools used:** VS code.
 
